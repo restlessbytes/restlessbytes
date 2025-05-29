@@ -1,4 +1,4 @@
-```json
+```
 GET /about
 {'name': 'restlessbytes',
  'occupation': ['freelancer', 'software developer', 'IT consultant'],
