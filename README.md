@@ -1,5 +1,6 @@
-```
-GET /about
+```css
+GET /about/restlessbytes
+
 {'name': 'restlessbytes',
  'occupation': ['freelancer', 'software developer', 'IT consultant'],
  'location': {'latitude': 48.78, 'longitude': 9.18},
