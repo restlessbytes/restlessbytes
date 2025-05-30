@@ -6,13 +6,10 @@ GET /about/restlessbytes
  "location": {"latitude": 48.78, "longitude": 9.18},
  "pronouns": ["he/him"],
  "background": "Linguistics, BA (univ.)",
- "interests": ["software",
-  "linguistics",
-  "language",
-  "math",
-  "programming",
-  "tinkering",
-  "trading",
-  "history"]
-}
+ "interests": ["technology",
+               "linguistics",
+               "math",
+               "programming",
+               "ML / AI",
+               "trading"]}
 ```
